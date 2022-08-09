@@ -12,6 +12,8 @@ M-x package-install emacs-theme-cyanometric
 
 ## Screenshots
 
+![](cyanometric-00000.png)
+
 ![](cyanometric-00001.png)
 
 ![](cyanometric-00002.png)
