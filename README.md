@@ -12,6 +12,20 @@ M-x package-install emacs-theme-cyanometric
 
 ## Screenshots
 
+![](cyanometric-00001.png)
+
+![](cyanometric-00002.png)
+
+![](cyanometric-00003.png)
+
+![](cyanometric-00004.png)
+
+![](cyanometric-00005.png)
+
+![](cyanometric-00006.png)
+
+![](cyanometric-00007.png)
+
 ## Autothemer
 
 Cyanometric uses autothemer.  It dramatically improves developer happiness when writing themes for Emacs.
