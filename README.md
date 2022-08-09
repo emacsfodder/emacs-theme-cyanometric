@@ -2,6 +2,8 @@
 
 A Theme with overwhelming bias towards cyan
 
+![](https://github.com/emacsfodder/emacs-theme-cyanometric/blob/images/cyanometric-beast.png?raw=true)
+
 ## Installation
 
 Cyanometric installation
