@@ -12,21 +12,21 @@ M-x package-install emacs-theme-cyanometric
 
 ## Screenshots
 
-![](cyanometric-00000.png)
+![](https://github.com/emacsfodder/emacs-theme-cyanometric/blob/images/cyanometric-00000.png)
 
-![](cyanometric-00001.png)
+![](https://github.com/emacsfodder/emacs-theme-cyanometric/blob/images/cyanometric-00001.png)
 
-![](cyanometric-00002.png)
+![](https://github.com/emacsfodder/emacs-theme-cyanometric/blob/images/cyanometric-00002.png)
 
-![](cyanometric-00003.png)
+![](https://github.com/emacsfodder/emacs-theme-cyanometric/blob/images/cyanometric-00003.png)
 
-![](cyanometric-00004.png)
+![](https://github.com/emacsfodder/emacs-theme-cyanometric/blob/images/cyanometric-00004.png)
 
-![](cyanometric-00005.png)
+![](https://github.com/emacsfodder/emacs-theme-cyanometric/blob/images/cyanometric-00005.png)
 
-![](cyanometric-00006.png)
+![](https://github.com/emacsfodder/emacs-theme-cyanometric/blob/images/cyanometric-00006.png)
 
-![](cyanometric-00007.png)
+![](https://github.com/emacsfodder/emacs-theme-cyanometric/blob/images/cyanometric-00007.png)
 
 ## Autothemer
 
