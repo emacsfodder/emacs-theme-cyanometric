@@ -2,7 +2,7 @@
 
 A Theme with overwhelming bias towards cyan
 
-![](https://github.com/emacsfodder/emacs-theme-cyanometric/blob/images/cyanometric-beast.png?raw=true)
+![](https://raw.githubusercontent.com/emacsfodder/emacs-theme-cyanometric/images/cyanometric-beast.png)
 
 ## Installation
 
@@ -14,21 +14,21 @@ M-x package-install emacs-theme-cyanometric
 
 ## Screenshots
 
-![](https://github.com/emacsfodder/emacs-theme-cyanometric/blob/images/cyanometric-00000.png)
+![](https://raw.githubusercontent.com/emacsfodder/emacs-theme-cyanometric/images/cyanometric-00000.png)
 
-![](https://github.com/emacsfodder/emacs-theme-cyanometric/blob/images/cyanometric-00001.png)
+![](https://raw.githubusercontent.com/emacsfodder/emacs-theme-cyanometric/images/cyanometric-00001.png)
 
-![](https://github.com/emacsfodder/emacs-theme-cyanometric/blob/images/cyanometric-00002.png)
+![](https://raw.githubusercontent.com/emacsfodder/emacs-theme-cyanometric/images/cyanometric-00002.png)
 
-![](https://github.com/emacsfodder/emacs-theme-cyanometric/blob/images/cyanometric-00003.png)
+![](https://raw.githubusercontent.com/emacsfodder/emacs-theme-cyanometric/images/cyanometric-00003.png)
 
-![](https://github.com/emacsfodder/emacs-theme-cyanometric/blob/images/cyanometric-00004.png)
+![](https://raw.githubusercontent.com/emacsfodder/emacs-theme-cyanometric/images/cyanometric-00004.png)
 
-![](https://github.com/emacsfodder/emacs-theme-cyanometric/blob/images/cyanometric-00005.png)
+![](https://raw.githubusercontent.com/emacsfodder/emacs-theme-cyanometric/images/cyanometric-00005.png)
 
-![](https://github.com/emacsfodder/emacs-theme-cyanometric/blob/images/cyanometric-00006.png)
+![](https://raw.githubusercontent.com/emacsfodder/emacs-theme-cyanometric/images/cyanometric-00006.png)
 
-![](https://github.com/emacsfodder/emacs-theme-cyanometric/blob/images/cyanometric-00007.png)
+![](https://raw.githubusercontent.com/emacsfodder/emacs-theme-cyanometric/images/cyanometric-00007.png)
 
 ## Autothemer
 
