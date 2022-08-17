@@ -1,3 +1,5 @@
+[![MELPA](http://stable.melpa.org/packages/cyanometric-theme-badge.svg)](http://stable.melpa.org/#/cyanometric-theme) [![MELPA](http://melpa.org/packages/cyanometric-theme-badge.svg)](http://melpa.org/#/cyanometric-theme)
+
 # Cyanometric Emacs Theme
 
 A Theme with overwhelming bias towards cyan
