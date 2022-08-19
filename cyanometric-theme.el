@@ -993,6 +993,11 @@
   (vc-state-base nil)
   (vc-up-to-date-state                       (:inherit 'vc-state-base))
   (vertical-border                           (:foreground cyanometric-background-2))
+  (vertico-posframe                          (:background cyanometric-background-0-hard))
+  (vertico-posframe-border                   (:background cyanometric-background-0-hard))
+  (vertico-posframe-border-2                 (:background cyanometric-background-0))
+  (vertico-posframe-border-3                 (:background cyanometric-background-1))
+  (vertico-posframe-border-4                 (:background cyanometric-background-2))
   (vline                                     (:background cyanometric-background-teal))
   (vline-visual                              (:background cyanometric-background-teal))
   (w3m-haddock-heading-face                  (:inherit 'highlight))
@@ -1027,6 +1032,7 @@
   (yas-field-highlight-face                  (:inherit 'region)))
 
  (custom-theme-set-variables 'cyanometric
+                             `(vertico-posframe-border-width 10)
                              `(pos-tip-foreground-color ,cyanometric-foreground-0-hard)
                              `(pos-tip-background-color ,cyanometric-background-teal)
                              `(ansi-color-names-vector [,cyanometric-background-1
