@@ -4,7 +4,7 @@
 
 ;; Authors: Jason Milkins <jasonm23@gmail.com>
 ;; URL: http://github.com/emacsfodder/emacs-theme-cyanometric
-;; Version: 1.0.1
+;; Version: 1.0.2
 ;; Package-Requires: ((autothemer "0.2") (emacs "24"))
 
 ;;; License
@@ -1002,6 +1002,11 @@
   (vline-visual                              (:background cyanometric-background-teal))
   (w3m-haddock-heading-face                  (:inherit 'highlight))
   (warning                                   (:foreground cyanometric-bright-red :bold t))
+  (web-mode-doctype-face                     (:foreground cyanometric-foreground-2 :weight 'bold))
+  (web-mode-html-attr-equal-face             (:inherit 'default))
+  (web-mode-html-attr-name-face              (:inherit 'font-lock-variable-name-face))
+  (web-mode-html-tag-bracket-face            (:inherit 'default))
+  (web-mode-html-tag-face                    (:foreground cyanometric-foreground-3))
   (which-key-command-description-face        (:inherit 'font-lock-function-name-face))
   (which-key-group-description-face          (:inherit 'font-lock-keyword-face))
   (which-key-highlighted-command-face        (:underline t :inherit 'which-key-command-description-face))
